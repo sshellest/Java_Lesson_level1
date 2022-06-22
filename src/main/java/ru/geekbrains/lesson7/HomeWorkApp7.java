@@ -7,7 +7,7 @@ public class HomeWorkApp7 {
     public static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
         int action;
-        Tomcat[] threeCats = new Tomcat[4];
+        Tomcat[] threeCats = new Tomcat[3];
         threeCats[0] = new Tomcat("Пушок", 10, false);
         threeCats[1] = new Tomcat("Черныш", 40, false);
         threeCats[2] = new Tomcat("Мурлыка", 5, false);
